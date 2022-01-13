@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xslt"?>
+
+
+<lista_recetas>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+     <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+     <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+     <receta>
+       
+        <titol>Cachopo Asturiano</titol> 
+        <imatge ruta="../imagenes/cachopo.jpg"/>
+        <cocinero>
+        COCINERO: Karlos Arguiñano Urkiola
+        </cocinero>
+        <plato>
+        PLATO: Cachopo asturiano
+        </plato>
+        <dificultad>
+        DIFICULTAD: Muy fácil
+        </dificultad>
+        <vegano>
+        ES VEGANO? No es vegano
+        </vegano>
+    </receta>
+    
+</lista_recetas>
